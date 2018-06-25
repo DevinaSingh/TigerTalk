@@ -25,6 +25,7 @@ Features include:
 ### Anonymous Posts and Comments (each user linked to a color on a post)
 <a href="https://imgur.com/xZ3WcyH"><img src="https://i.imgur.com/xZ3WcyH.png" title="source: imgur.com" width="80%" height="80%">
 
+
 ### Mobile responsive design
 <img src="images/main_mobile.jpg" alt="The main interface of mobile TigerTalk" width="30%" height="30%">	<img src="images/scrolled_mobile.jpg" alt="A series of posts in mobile TigerTalk" width="30%" height="30%">	<img src="images/comments_mobile.jpg" alt="A comment thread in mobile TigerTalk" width="30%" height="30%">
 
