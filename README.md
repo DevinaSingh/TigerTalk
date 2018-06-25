@@ -23,7 +23,7 @@ Features include:
 <img src="images/search.png" alt="Search results in TigerTalk" width="80%" height="80%">
 
 ### Anonymous Posts and Comments (each user linked to a color on a post)
-<a href="https://imgur.com/xZ3WcyH"><img src="https://i.imgur.com/xZ3WcyH.png" title="source: imgur.com" width="80%" height="80%">
+<a href="https://imgur.com/xZ3WcyH"><img src="https://i.imgur.com/xZ3WcyH.png" title="source: imgur.com" width="80%" height="80%" >
 
 
 ### Mobile responsive design
